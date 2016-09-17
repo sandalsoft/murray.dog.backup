@@ -1,7 +1,0 @@
-prod:
-    host: "murray.dog"
-    user: "internet@murray.dog"
-    pass: ".i*fGQO0^]1`W4T11!}1"
-    path:
-        local: "./www"
-        remote: "./"
